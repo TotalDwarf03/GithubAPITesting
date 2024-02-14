@@ -20,6 +20,12 @@ To exit the Virtual Environment, use `deactivate`.
 
 You can now execute and modify the JS script.
 
+## Findings
+After experimenting with the API's basic functionality, I feel like JavaScript is the better option for the task. I think the Octocat module used made it much easier than using the Requests library in Python.
+Although, I believe Python does have some alternatives to the Requests library so they may be better and more user friendly.
+
+Also, in practice, the API calls would have extensive error handling using the response status. For example, if a status 404 (not found) is thrown, throw an error message.
+
 ## Resources Used
 - [JavaScript API Documentation](https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api?apiVersion=2022-11-28)
 - [Octokit.js](https://docs.github.com/en/rest/guides/scripting-with-the-rest-api-and-javascript?apiVersion=2022-11-28)

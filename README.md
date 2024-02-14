@@ -15,4 +15,5 @@ To exit the Virtual Environment, use `deactivate`.
 
 ## Resources Used
 - [JavaScript API Documentation](https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api?apiVersion=2022-11-28)
+- [Octokit.js](https://docs.github.com/en/rest/guides/scripting-with-the-rest-api-and-javascript?apiVersion=2022-11-28)
 - [Python API Guide](https://thepythoncode.com/article/using-github-api-in-python)
